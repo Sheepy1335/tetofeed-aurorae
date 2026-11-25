@@ -11,7 +11,7 @@ Tetofeed is a red twindrilled VHS look for KDE Plasma 6, built around a crimson-
 - Title bar with faint scanlines and tape grain that stretches into horizontal VHS streaks.
 - A crimson glow seam under the title, with a hot 1 px core.
 - The active window casts a soft crimson glow; inactive windows dim to blood-black with a plain shadow.
-- Square transport-style buttons that light up crimson on hover (close glows REC scarlet). The window-menu button is a VCR `▶ PLAY` triangle.
+- Square transport-style buttons that light up crimson on hover (close glows REC scarlet). The window-menu button is a VCR Twindrill logo.
 - Centred title, 3 px borders, no rounded corners.
 
 ![buttons](screenshots/buttons.jpg)
@@ -27,7 +27,9 @@ git clone https://github.com/sheepy1335/tetofeed-aurorae
 cd tetofeed-aurorae && ./install.sh
 ```
 
-Or from the KDE Store: System Settings → Colors & Themes → Window Decorations → Install from File, or extract to `~/.local/share/aurorae/themes/`.
+Or from the KDE Store: System Settings → Colors & Themes → Window Decorations → Get New... → Tetofeed Aurorae,
+- System Settings → Colors & Themes → Window Decorations → Install from File, 
+- Or extract to `~/.local/share/aurorae/themes/`.
 
 ## The rest of the suite
 
@@ -51,4 +53,5 @@ Everything at once, with the generators: [tetofeed](https://github.com/sheepy133
 
 ## Credits and licence
 
-By sheepy1335. GPL-3.0-or-later.
+- By sheepy1335, customised from [Bloodfeed Global](https://github.com/numbpill3d/bloodfeed-global) by numbpill3d. GPL-3.0-or-later.
+- Twindrill logo is from [Twindrill the organization](https://kasaneteto.jp/assets/images/common/logo_twindrill.svg)
